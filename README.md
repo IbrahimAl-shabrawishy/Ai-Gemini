@@ -2,8 +2,8 @@
 
 A simple and responsive **AI Chat Application** built with **HTML, CSS, JavaScript** using a **free API** for AI responses. This project is beginner‑friendly and perfect for learning how to connect frontend apps to AI APIs.
 
-Live Demo: *(add your GitHub Pages link here if you deploy)*  
-🔗 https://your‑username.github.io/your‑repo/
+Live Demo: https://ai-gemini-five.vercel.app/  
+🔗 https://github.com/IbrahimAl-shabrawishy/Ai-Gemini.git
 
 ---
 
