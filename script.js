@@ -159,7 +159,7 @@ window.addEventListener("DOMContentLoaded", () => {
     "bot-message",
     `
       <img src="./images/gemini-chatbot-logo.svg" class="bot-avatar" alt="Gemini Logo">
-      <p class="message-text">Hi! Ask me anything or click a suggestion above to start.</p>
+      <p class="message-text">Hi! Ask me anything.</p>
     `
   );
 });
